@@ -1,4 +1,4 @@
-=== new user dashboard ===
+=== New User Dashboard Widget ===
 Contributors: swadeshswain
 Tags: New user Dashboard, Recent Registerd user,New user,Dashboard widget,widget,Dashboard
 Requires at least: 3.0
